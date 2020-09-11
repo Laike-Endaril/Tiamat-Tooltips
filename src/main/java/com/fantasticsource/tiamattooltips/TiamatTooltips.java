@@ -11,7 +11,7 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
 @SideOnly(Side.CLIENT)
-@Mod(modid = TiamatTooltips.MODID, name = TiamatTooltips.NAME, version = TiamatTooltips.VERSION, acceptableRemoteVersions = "*", dependencies = "required-after:fantasticlib@[1.12.2.036y,)")
+@Mod(modid = TiamatTooltips.MODID, name = TiamatTooltips.NAME, version = TiamatTooltips.VERSION, acceptableRemoteVersions = "*", dependencies = "required-after:fantasticlib@[1.12.2.036y,);after:tiamathud")
 public class TiamatTooltips
 {
     public static final String MODID = "tiamattooltips";
