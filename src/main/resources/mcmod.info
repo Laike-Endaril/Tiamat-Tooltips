@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tiamattooltips",
+  "name": "Tiamat Tooltips",
+  "description": "Customized client-side tooltips",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Laike_Endaril"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
